@@ -1,5 +1,8 @@
 _repo: The-Fur-Seal-s-Tooth-A-Story-of-Alaskan-Adventure_58577
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58577-h/images/cover.jpg
 creator:
   author:
     agent_name: Munroe, Kirk
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1480
     wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58577#The-Fur-Seal-s-Tooth-A-Story-of-Alaskan-Adventure
 gutenberg_issued: '2018-12-31'
 gutenberg_type: Text
 identifiers:
